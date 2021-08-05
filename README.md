@@ -7,4 +7,6 @@ Take a look at Tutorial_Super_Resolution_full.ipynb if you would like to see the
 
 The Tutorial_Super_Resolution_full.ipynb is self-contained. It walks you through the code for data loaders, batch processor, visualisation tools, etc. It is divided into three parts, Part I: Traditional Interpolation like Bicubic Interpolation, Part II: EDSR, and Part III: Meta-SRGAN. Part II and Part III includes the training code for training their respective networks (EDSR and Meta-SRGAN).
 
+If any of you are interested, I published a paper based on this work here: https://arxiv.org/abs/2004.02086
+
 
